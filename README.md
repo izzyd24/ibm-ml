@@ -29,3 +29,8 @@ For columns w, and r we want to create a new category for missing values ("maski
 Pros:
 Cons:
 
+
+### Week 3
+### EDA cont.: 
+
+
