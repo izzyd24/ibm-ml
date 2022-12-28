@@ -30,7 +30,8 @@ Pros:
 Cons:
 
 
-### Week 3
+### Week 3/4
 ### EDA cont.: 
 
+### Hypothesis Testing:
 
