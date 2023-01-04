@@ -35,3 +35,7 @@ Cons:
 
 ### Hypothesis Testing:
 
+## Linear Regression: 
+### Lab 1:
+
+
